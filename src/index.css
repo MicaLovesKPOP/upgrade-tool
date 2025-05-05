@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  .container {
+    display: flex;
+    padding: 16px;
+  }
+  .sidebar {
+    width: 300px;
+    border-right: 1px solid #ddd;
+    padding-right: 16px;
+  }
+  .main {
+    flex: 1;
+    padding-left: 16px;
+  }
+  button {
+    margin-left: 8px;
+  }
+  .part-card {
+    border: 1px solid #ccc;
+    padding: 8px;
+    margin-bottom: 8px;
+  }

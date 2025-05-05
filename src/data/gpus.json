@@ -1,0 +1,6 @@
+[
+    {"id": 20001, "name": "Nvidia RTX 4060 Ti 8GB", "tdp": 160, "msrp": 399},
+    {"id": 20002, "name": "AMD Radeon RX 7700 XT", "tdp": 245, "msrp": 449},
+    {"id": 20003, "name": "Intel Arc B580", "tdp": 190, "msrp": 249}
+  ]
+  
